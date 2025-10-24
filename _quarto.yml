@@ -1,0 +1,29 @@
+project:
+  type: website
+  output-dir: docs
+  execute-dir: project
+
+website:
+  title: "Name"  # ← ここがサイト上部の "web" を "Name" に変える
+  navbar: 
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: teaching.qmd
+        text: Teaching
+
+format:
+  html:
+    theme:
+      - cosno
+      - brand
+    css: styles.css
+    toc: true
+    
+navbar:
+  right:
+    - icon: github
+      # href: https://github.com/yume0002
+      href: https://github.com/yumeri-ninomiya-page/yumeri-ninomiya-page.github.io/
