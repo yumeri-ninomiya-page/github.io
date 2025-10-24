@@ -1,9 +1,23 @@
 [
   {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Profile",
+    "section": "",
+    "text": "About this site"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Name",
     "section": "",
-    "text": "Welcome to my site.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.aaaa"
+    "text": "Welcome to my site.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.aaaaaa"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "About this site"
   }
 ]
